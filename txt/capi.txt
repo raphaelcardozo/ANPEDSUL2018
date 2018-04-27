@@ -1,0 +1,28 @@
+"IBGE";"Nome.do.Municpio";"Cdigo.UF";"UF";"Estado";"Latitude";"Longitude"
+"1";2800308;"Aracaju";28;"SE";"Sergipe";-10.9091;-37.0677
+"2";1501402;"Belém";15;"PA";"Pará";-1.4554;-48.4898
+"3";3106200;"Belo Horizonte";31;"MG";"Minas Gerais";-19.9102;-43.9266
+"4";1400100;"Boa Vista";14;"RR";"Roraima";2.82384;-60.6753
+"5";5300108;"Brasília";53;"DF";"Distrito Federal";-15.7795;-47.9297
+"6";5002704;"Campo Grande";50;"MS";"Mato Grosso do Sul";-20.4486;-54.6295
+"7";5103403;"Cuiabá";51;"MT";"Mato Grosso";-15.601;-56.0974
+"8";4106902;"Curitiba";41;"PR";"Paraná";-25.4195;-49.2646
+"9";4205407;"Florianópolis";42;"SC";"Santa Catarina";-27.5945;-48.5477
+"10";2304400;"Fortaleza";23;"CE";"Ceará";-3.71664;-38.5423
+"11";5208707;"Goiânia";52;"GO";"Goiás";-16.6864;-49.2643
+"12";2507507;"João Pessoa";25;"PB";"Paraíba";-7.11509;-34.8641
+"13";1600303;"Macapá";16;"AP";"Amapá";0.034934;-51.0694
+"14";2704302;"Maceió";27;"AL";"Alagoas";-9.66599;-35.735
+"15";1302603;"Manaus";13;"AM";"Amazonas";-3.11866;-60.0212
+"16";2408102;"Natal";24;"RN";"Rio Grande do Norte";-5.79357;-35.1986
+"17";1721000;"Palmas";17;"TO";"Tocantins";-10.24;-48.3558
+"18";4314902;"Porto Alegre";43;"RS";"Rio Grande do Sul";-30.0318;-51.2065
+"19";1100205;"Porto Velho";11;"RO";"Rondônia";-8.76077;-63.8999
+"20";2611606;"Recife";26;"PE";"Pernambuco";-8.04666;-34.8771
+"21";1200401;"Rio Branco";12;"AC";"Acre";-9.97499;-67.8243
+"22";3304557;"Rio de Janeiro";33;"RJ";"Rio de Janeiro";-22.9129;-43.2003
+"23";2927408;"Salvador";29;"BA";"Bahia";-12.9718;-38.5011
+"24";2111300;"São Luís";21;"MA";"Maranhão";-2.53874;-44.2825
+"25";3550308;"São Paulo";35;"SP";"São Paulo";-23.5329;-46.6395
+"26";2211001;"Teresina";22;"PI";"Piauí";-5.09194;-42.8034
+"27";3205309;"Vitória";32;"ES";"Espírito Santo";-20.3155;-40.3128
